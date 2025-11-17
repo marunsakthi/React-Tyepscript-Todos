@@ -70,5 +70,3 @@ Good luck!
 
 AI
 Do not use co-pilot or other tools to generate code.
-
-https://github.com/garry332212/ToDo-ReactTs/blob/main/src/TodoService.ts
